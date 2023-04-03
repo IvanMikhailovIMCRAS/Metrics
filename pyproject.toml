@@ -13,6 +13,7 @@ numpy = "^1.24.2"
 [tool.poetry.group.dev.dependencies]
 mypy = "^1.1.1"
 matplotlib = "^3.7.1"
+autopep8 = "^2.0.2"
 
 [build-system]
 requires = ["poetry-core"]
